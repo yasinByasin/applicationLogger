@@ -1,5 +1,5 @@
-# applicationLogger
-Application to search and list applications Logger.
+# ApplicationLogger
+**Application to search and list applications Logger.**
 
 # install
 1 - Clone project.<br>
